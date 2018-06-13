@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi hello
-=======
-goodbye
->>>>>>> master
+how are you
